@@ -9,6 +9,7 @@ Save locally
 Load
 
     %store -r import_setup
+    import_setup
     
 '''
 
